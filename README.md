@@ -1,7 +1,13 @@
-README.md
+Password Generator
+
 README.md Visual Studio Code - Open Source ("Code - OSS") Build Status Feature Requests Bugs Gitter
 
 **RESOURCES TO CONCEPTS PROVIDED BY CLASSMATE WAS INCLUDED IN MY CODE.**
+
+The following technologies were used:
+-HTML
+-CSS
+-JavaScript
 
 Deployed Link:https://hallkr86.github.io/hw-03-password-generator/
 
@@ -32,3 +38,4 @@ Code of Conduct This project has adopted the Microsoft Open Source Code of Condu
 License Copyright (c) Microsoft Corporation. All rights reserved.
 
 Licensed under the MIT license.
+
