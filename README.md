@@ -3,6 +3,8 @@ README.md Visual Studio Code - Open Source ("Code - OSS") Build Status Feature R
 
 **RESOURCES TO CONCEPTS PROVIDED BY CLASSMATE WAS INCLUDED IN MY CODE.**
 
+Deployed Link:https://hallkr86.github.io/hw-03-password-generator/
+
 The Repository This repository ("Code - OSS") is where we (Microsoft) develop the Visual Studio Code product. Not only do we work on code and issues here, we also publish our roadmap, monthly iteration plans, and our endgame plans. This source code is available to everyone under the standard MIT license.
 
 Visual Studio Code VS Code in action
